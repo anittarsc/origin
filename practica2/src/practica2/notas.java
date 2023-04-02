@@ -1,6 +1,6 @@
 package practica2;
 import java.util.Scanner;
-
+//github
 
 public class notas {
 	//declaramos la variables que nos hacen falta
