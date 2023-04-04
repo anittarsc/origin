@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class notas {
 	//declaramos la variables que nos hacen falta
-	//cambios en las variables ana
+	//cambios en las variables
 	double notasUF1, notasUF2, notasUF3;
 	double acu1, acu2, acu3, def;
 	//utilizames ecaner para poder introducir datos
